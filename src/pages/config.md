@@ -1,5 +1,5 @@
 - pathPrefix:
-    - /dev-docs-template/
+    - /analytics-cja-postman-collections/
 
 - pages:
     - [Analytics](index.md)
