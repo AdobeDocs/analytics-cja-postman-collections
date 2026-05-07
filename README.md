@@ -21,7 +21,7 @@ Get credentials feature on the [CJA API Reference](https://developer.adobe.com/c
 | `BASE_URL` | Set to `https://cja.adobe.io` |
 
 ## Authorization token
-Generate an access token in the Console or using the Get credentials feature on the 
+Generate an access token in the Console or by using the Get credentials feature on the 
 [CJA API Reference](https://developer.adobe.com/cja-apis/docs/api). Click **Generate**, 
 copy the token value, and paste it into the `ACCESS_TOKEN` variable in your Postman 
 environment.
